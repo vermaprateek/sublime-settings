@@ -1,0 +1,19 @@
+{
+    "auto_formatting": false,
+    "autoformat_ignore":
+    [
+    ],
+    "pep8_ignore":
+    [
+        "E501",
+        "E2",
+        "W2",
+        "W3"
+    ],
+    "anaconda_linter_underlines": false,
+    "anaconda_gutter_theme": "Bright",
+    "anaconda_linter_mark_style": "none",
+    "display_signatures": false,
+    "disable_anaconda_completion": true,
+    "python_interpreter": "C:\\Users\\prateek.verma\\AppData\\Local\\Continuum\\anaconda3\\python"
+}
